@@ -1,0 +1,165 @@
+# Introduction
+The page is a copy of the Codex on the Victorian Regiment of the Imperial Guard in the Warhammer 40K universe.
+https://1drv.ms/b/s!ArMi0Zu-C51C8QGu4NrtBQDeBIU-
+
+# Profils
+## Troops
+### Lign Infantry Platoon
+* 1 Squad Command (1 Lieutenant and 4 Infantry) 
+* 2-4 Lign Infantry Squad (19 Infantry and 1 Sergent) 
+* 0-4 Heavy weapons squad 
+
+  | CT | CC | F | E | W | I | A | Ld | Svg
+-- | -- | -- | -- | -- | -- | -- | -- | -- | --
+Infantry| 3 | 3 | 3 | 3 | 1 | 3 | 1 | 7 | 5+
+Sergent| 3 | 3 | 3 | 3 | 1 | 3 | 2 | 7 | 5+
+Lieutenant| 3 | 3 | 3 | 3 | 1 | 3 | 2 | 8 | 5+
+
+Weapons | Range | F | PA | Type
+-- | -- | -- | -- | --
+Lasgun | 24" | 3 | - | Tir Rapide
+Laspistol | 12" | 3 | - | Pistol
+Krak Grenades | 8" | 6 | 4 | Assaut 1
+Frag Grenades | 8" | 3 | - | Assaut 1, Blast 3"
+
+**Type of Infantry**
+* Lign Infantry
+
+**Specials Rules**
+* Obstinés
+* Formation de combats
+* Ordres
+
+**Equipment**
+* Lasgun
+* Krak grenades
+* Frag Grenades
+* Laspistol and CCW (Sergent)
+***
+### Hunters Platoon
+* 1 Command Squad ( 1 Hunter Lieutenant and 4 Hunters )
+* 1-6 Lign Infantry Squad (9 Hunter and 1 Hunter Sergent) 
+
+  | CT | CC | F | E | W | I | A | Ld | Svg
+-- | -- | -- | -- | -- | -- | -- | -- | -- | --
+Hunter | 4 | 3 | 3 | 3 | 1 | 3 | 1 | 7 | 5+
+Hunter Sergent| 4 | 3 | 3 | 3 | 1 | 3 | 2 | 7 | 5+
+Hunter Lieutenant| 4 | 3 | 3 | 3 | 1 | 3 | 2 | 8 | 5+
+
+Weapons | Range | F | PA | Type
+-- | -- | -- | -- | --
+Hunter Lasgun | 36" | 3 | 4 | Heavy 1
+Laspistol | 12" | 3 | - | Pistol
+Krak Grenades | 8" | 6 | 4 | Assaut 1
+Frag Grenades | 8" | 3 | - | Assaut 1, Blast 3"
+
+**Type of Infantry**
+* Light Infantry
+
+**Specials Rules**
+* Obstinés
+* Formation de combats
+* Ordres
+
+**Equipment**
+* Hunter Lasgun
+* Krak grenades
+* Frag Grenades
+* Laspistol and CCW (Sergent and lieutenant)
+***
+### Conscripts Platoon
+* 1 Squad Command (1 Lieutenant and 4 Infantry) 
+* 2-4 Lign Infantry Squad (20 Infantry) 
+
+  | CT | CC | F | E | W | I | A | Ld | Svg
+-- | -- | -- | -- | -- | -- | -- | -- | -- | --
+Conscripts| 2 | 2 | 2 | 2 | 1 | 3 | 1 | 5 | 5+
+Lieutenant| 3 | 3 | 3 | 3 | 1 | 3 | 2 | 8 | 5+
+
+Weapons | Range | F | PA | Type
+-- | -- | -- | -- | --
+Lasgun | 24" | 3 | - | Tir Rapide
+Laspistol | 12" | 3 | - | Pistol
+Frag Grenades | 8" | 3 | - | Assaut 1, Blast 3"
+
+**Type of Infantry**
+* Infantry
+
+**Specials Rules**
+* Ordres
+
+**Equipment**
+* Lasgun
+* Frag Grenades
+***
+## Elites
+### Old Guards Platoon
+* 1 Squad Command (1 Lieutenant and 4 Old Guards) 
+* 2-4 Old Guards Squad (19 Old Guards and 1 Sergent)
+
+  | CT | CC | F | E | W | I | A | Ld | Svg
+-- | -- | -- | -- | -- | -- | -- | -- | -- | --
+Old Guards| 4 | 3 | 3 | 3 | 1 | 3 | 1 | 7 | 4+
+Old Guards Sergent| 4 | 3 | 3 | 3 | 1 | 3 | 2 | 8 | 4+
+Lieutenant| 4 | 3 | 3 | 3 | 1 | 3 | 2 | 9 | 5+
+
+Weapons | Range | F | PA | Type
+-- | -- | -- | -- | --
+Hot-Shot Lasgun | 18" | 3 | 3 | Tir Rapide
+Hot-Shot Volley Lasgun | 24" | 4 | 3 | Salvo 2/4
+Hot-Shot Laspistol | 6" | 3 | 3 | Pistol
+Krak Grenades | 8" | 6 | 4 | Assaut 1
+Frag Grenades | 8" | 3 | - | Assaut 1, Blast 3"
+
+**Type of Infantry**
+* Lign Infantry
+* Elite Infantry
+
+**Specials Rules**
+* Obstinés
+* Formation de combats
+* Ordres
+
+**Equipment**
+* Hot-Shot lasgun
+* Hot-Shot laspistol
+* Hot-Shot volley lasgun
+* Krak grenades
+* Frag Grenades
+
+# Specials Rules
+## Combat Formations
+***
+### Line Formation
+* Leader must be in first line of the formation
+* All units of the formation must be in base contact so as to form a rectangle.
+* The formation can't runnig, otherwise the formation is broken
+* When a squad or a platoon is in formation, all units of the formation can move 3 ps at the beggining of each phase to reform. (The leader can't move)
+* For **Line Infantry** and **Elite infantry**
+***
+### Square Formation
+* Leader must be in middle of the formation
+* All units of the formation must be in base contact so as to form a square.
+* The formation can't runnig, otherwise the formation is broken
+* When a squad or a platoon is in formation, all units of the formation can move 3 ps at the beggining of each phase to reform. (The leader can't move)
+* For **Line Infantry** and **Elite infantry**
+
+## Orders
+* **En joue ! Feu !** : All units can have _precision shots_
+  * Must be in **Line Formation** or in **Square Formation**
+* **Fire at will !** : The units can shoot on two targets
+  * Must be in **Line Formation** or in **Square Formation**
+* **First Rank, Fire ! Second Rank Fire !** : All lasguns fire add 1 shot
+  * Must be in **Line Formation** or in **Square Formation**
+* **Go !! For the emperor !** : The unit MUST shoot AND sprint in the same turn. The formation is broken 
+  * Must be in **Line Formation**
+* **Go !! Go !! Go !!** : The unit MUST sprint. Roll 3 dices and keep the Higher. The formation is broken 
+  * Must be in **Line Formation**
+* **Supress Fire !** : All weapons have _pinning_ special rule
+  * Must be in **Line Formation** or in **Square Formation**
+
+* **Kill Him !!** (_High Officers_ only) : All units have _armourbane_ and _monster hunter_ special rule
+  * Must be in **Line Formation** or in **Square Formation**
+* **Target Acquired !** (_High Officers_ only) : All weapons have _ignore covers_ special rule
+  * Must be in **Line Formation** or in **Square Formation**
+* **Get back in fight !** (_High Officers_ only) : Only for units in _retreat_ or _to ground !_. All effects cease immediatly and the unit can act normaly
