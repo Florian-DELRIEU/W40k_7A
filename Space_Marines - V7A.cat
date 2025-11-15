@@ -60,6 +60,7 @@
     <publication id="b42e-b363-0b03-48b9" name="-- Personnals addons">
       <comment>This choice come from my own opinion and preferences</comment>
     </publication>
+    <publication name="FW (Forge World Publication)" id="5790-76b2-7b96-5557" hidden="false" shortName="FW"/>
   </publications>
   <categoryEntries>
     <categoryEntry id="bf93-7277-bf48-16f7" name="Core" hidden="false"/>
@@ -2904,7 +2905,7 @@
         <cost name="pts" typeId="points" value="30"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="f8c3-890f-1aae-ca79" name="Boltgun" hidden="false" collective="false" import="true" type="upgrade">
+    <selectionEntry id="f8c3-890f-1aae-ca79" name="(FA) Boltgun" hidden="false" collective="false" import="true" type="upgrade">
       <infoLinks>
         <infoLink id="54d5-6dcf-23c7-4311" hidden="false" targetId="3d4b-95ea-f860-dd22" type="profile" name="Boltgun"/>
       </infoLinks>
@@ -3018,7 +3019,7 @@
         <cost name="pts" typeId="points" value="5"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="d75c-8a7a-0479-8d6f" name="Heavy Bolter" hidden="false" collective="false" import="true" type="upgrade">
+    <selectionEntry id="d75c-8a7a-0479-8d6f" name="(HMG) Heavy Bolter" hidden="false" collective="false" import="true" type="upgrade">
       <infoLinks>
         <infoLink id="3c76-8f6c-bbd6-6f45" hidden="false" targetId="e2b0-b9f1-6c38-584c" type="profile" name="Heavy Bolter"/>
       </infoLinks>
@@ -3026,7 +3027,7 @@
         <cost name="pts" typeId="points" value="10"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="912e-1073-eefa-033c" name="Heavy Flamer" hidden="false" collective="false" import="true" type="upgrade">
+    <selectionEntry id="912e-1073-eefa-033c" name="(LF.H) Heavy Flamer" hidden="false" collective="false" import="true" type="upgrade">
       <infoLinks>
         <infoLink id="b8f3-6e94-79b5-5f54" hidden="false" targetId="2608-8425-4f4f-7f41" type="profile" name="Heavy Flamer"/>
       </infoLinks>
@@ -3183,7 +3184,7 @@
         <cost name="pts" typeId="points" value="60"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="df39-f561-9007-8d1b" name="Autocannon" hidden="false" collective="false" import="true" type="upgrade">
+    <selectionEntry id="df39-f561-9007-8d1b" name="(CA) Autocannon" hidden="false" collective="false" import="true" type="upgrade">
       <infoLinks>
         <infoLink id="7dfb-312b-39a7-2338" hidden="false" targetId="fa99-0671-b31a-22d7" type="profile" name="Autocannon"/>
       </infoLinks>
@@ -3191,7 +3192,7 @@
         <cost name="pts" typeId="points" value="5"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="6a6c-06b8-73d2-e79c" name="Assault Cannon" hidden="false" collective="false" import="true" type="upgrade">
+    <selectionEntry id="6a6c-06b8-73d2-e79c" name="(RTG) Assault Cannon" hidden="false" collective="false" import="true" type="upgrade">
       <infoLinks>
         <infoLink id="d88f-c13b-3eb2-bfdb" hidden="false" targetId="20dc-1fbb-dc65-7f04" type="profile" name="Assault Cannon"/>
         <infoLink id="1683-3bfb-2ddd-60bf" hidden="false" targetId="6a76-59d1-822c-59c9" type="rule" name="Rending"/>
@@ -7446,7 +7447,7 @@ If the tank is Wrecked or suffers an Explodes! result, Sergeant Chronus is treat
         <cost name="pts" typeId="points" value="0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="fd49-81fb-9716-fb24" name="Bolt Pistol" hidden="false" collective="false" import="true" type="upgrade">
+    <selectionEntry id="fd49-81fb-9716-fb24" name="(PA) Bolt Pistol" hidden="false" collective="false" import="true" type="upgrade">
       <infoLinks>
         <infoLink id="c23b-f39b-e2db-712f" name="Bolt Pistol" hidden="false" targetId="e6d5-677a-d8ed-f6a5" type="profile"/>
       </infoLinks>
@@ -13780,7 +13781,7 @@ If the tank is Wrecked or suffers an Explodes! result, Sergeant Chronus is treat
         <cost name="pts" typeId="points" value="0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="a6c9-f21f-d27f-3721" name="Assault Squad" hidden="false" collective="false" import="true" type="unit">
+    <selectionEntry id="a6c9-f21f-d27f-3721" name="(SQ-ASS) Assault Squad" hidden="false" collective="false" import="true" type="unit" page="">
       <infoLinks>
         <infoLink id="c25e-9005-e28b-83ab" name="And They Shall Know No Fear" hidden="false" targetId="2e56-6b02-4343-0e40" type="rule"/>
         <infoLink id="53cc-73d8-5953-f085" hidden="false" targetId="7e2f-8a72-6606-5b2d" type="rule" name="Combat Squads"/>
@@ -14389,7 +14390,7 @@ If the tank is Wrecked or suffers an Explodes! result, Sergeant Chronus is treat
         <cost name="pts" typeId="points" value="0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="6a33-4a96-5ed0-a106" name="Grenade Launcher" hidden="false" collective="false" import="true" type="upgrade">
+    <selectionEntry id="6a33-4a96-5ed0-a106" name="(GL) Grenade Launcher" hidden="false" collective="false" import="true" type="upgrade">
       <infoLinks>
         <infoLink id="eb49-5c8f-d728-6e34" hidden="false" targetId="daee-ca3f-e171-4a2e" type="profile" name="Grenade Launcher (Frag Grenade)"/>
         <infoLink id="17e0-671f-3d94-9511" hidden="false" targetId="beba-e3e3-03ea-8eee" type="profile" name="Grenade Launcher (Krak Grenade)"/>
@@ -18502,7 +18503,7 @@ Harassing Fire: Any unit that suffers one or more unsaved Wounds from a unit tha
         <cost name="pts" typeId="points" value="0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="78cd-02ee-bb9e-f998" name="(FW) Thunderhawk Transporter" hidden="false" collective="false" import="true" type="model">
+    <selectionEntry id="78cd-02ee-bb9e-f998" name="(A.SH-TV) Thunderhawk Transporter" hidden="false" collective="false" import="true" type="model">
       <modifiers>
         <modifier type="set" field="hidden" value="true">
           <conditionGroups>
@@ -20673,7 +20674,7 @@ The Knight has a 4+ invulnerable save against all hits on that facing until the 
         <cost name="pts" typeId="points" value="155"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="1989-b2ce-274f-0c96" name="(FW) Captain Tarnus Vale" hidden="false" collective="false" import="true" type="model">
+    <selectionEntry id="1989-b2ce-274f-0c96" name="(P-CPT) Captain Tarnus Vale" hidden="false" collective="false" import="true" type="model">
       <modifiers>
         <modifier type="set" field="hidden" value="true">
           <conditionGroups>
@@ -20902,7 +20903,7 @@ The Knight has a 4+ invulnerable save against all hits on that facing until the 
         <cost name="pts" typeId="points" value="175"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="0ecd-2e9e-8dc6-253d" name="(FW) Captain Mordaci Blaylock" hidden="false" collective="false" import="true" type="model">
+    <selectionEntry id="0ecd-2e9e-8dc6-253d" name="(P-CPT) Captain Mordaci Blaylock" hidden="false" collective="false" import="true" type="model">
       <modifiers>
         <modifier type="set" field="hidden" value="true">
           <conditionGroups>
@@ -20995,7 +20996,7 @@ The Knight has a 4+ invulnerable save against all hits on that facing until the 
         <cost name="pts" typeId="points" value="185"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="2d04-2307-eee9-5912" name="(FW) Captain Pellas Mir&apos;san" hidden="false" collective="false" import="true" type="model">
+    <selectionEntry id="2d04-2307-eee9-5912" name="(P-CPT) Captain Pellas Mir&apos;san" hidden="false" collective="false" import="true" type="model">
       <modifiers>
         <modifier type="set" field="hidden" value="true">
           <conditionGroups>
@@ -21102,7 +21103,7 @@ The Knight has a 4+ invulnerable save against all hits on that facing until the 
         <cost name="pts" typeId="points" value="150"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="629a-bba7-5ad0-a402" name="(FW) Bray&apos;arth Ashmantle" hidden="false" collective="false" import="true" type="model">
+    <selectionEntry id="629a-bba7-5ad0-a402" name="(P) Bray&apos;arth Ashmantle" hidden="false" collective="false" import="true" type="model">
       <modifiers>
         <modifier type="set" field="hidden" value="true">
           <conditionGroups>
@@ -21299,7 +21300,7 @@ The Knight has a 4+ invulnerable save against all hits on that facing until the 
         <cost name="pts" typeId="points" value="135"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="56b4-9084-86b6-6ef9" name="(FW) Ahazra Redth" hidden="false" collective="false" import="true" type="model">
+    <selectionEntry id="56b4-9084-86b6-6ef9" name="(P) Ahazra Redth" hidden="false" collective="false" import="true" type="model">
       <modifiers>
         <modifier type="set" field="hidden" value="true">
           <conditions>
@@ -21497,7 +21498,7 @@ Mirage is a blessing that targets the psyker, as well as any unit he has joined 
         <cost name="pts" typeId="points" value="190"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="c1dd-611d-0ae0-9d01" name="(FW) Captain Zhruhkal Androcles" hidden="false" collective="false" import="true" type="model">
+    <selectionEntry id="c1dd-611d-0ae0-9d01" name="(P-CPT) Captain Zhruhkal Androcles" hidden="false" collective="false" import="true" type="model">
       <modifiers>
         <modifier type="set" field="hidden" value="true">
           <conditions>
@@ -21978,7 +21979,7 @@ Note that if this attack scatters, it will always scatter the full 2D6&quot; - L
         <cost name="pts" typeId="points" value="235"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="4a2f-5376-c22b-4f3b" name="(FW) Captain Corien Sumatris" hidden="false" collective="false" import="true" type="model">
+    <selectionEntry id="4a2f-5376-c22b-4f3b" name="(P) Captain Corien Sumatris" hidden="false" collective="false" import="true" type="model">
       <modifiers>
         <modifier type="set" field="hidden" value="true">
           <conditions>
@@ -22095,7 +22096,7 @@ Note that if this attack scatters, it will always scatter the full 2D6&quot; - L
         <cost name="pts" typeId="points" value="165"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="3347-e853-2bcd-def9" name="(FW) Armenneus Valthex" hidden="false" collective="false" import="true" type="model">
+    <selectionEntry id="3347-e853-2bcd-def9" name="(P) Armenneus Valthex" hidden="false" collective="false" import="true" type="model" publicationId="5790-76b2-7b96-5557">
       <modifiers>
         <modifier type="set" field="hidden" value="true">
           <conditions>
@@ -22213,7 +22214,7 @@ Note that if this attack scatters, it will always scatter the full 2D6&quot; - L
         <cost name="pts" typeId="points" value="145"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="604c-7f3e-14f5-239b" name="(FW) Arch-centurion Carnac Commodus" hidden="false" collective="false" import="true" type="model">
+    <selectionEntry id="604c-7f3e-14f5-239b" name="(FW) Arch-centurion Carnac Commodus" hidden="false" collective="false" import="true" type="model" page="" publicationId="5790-76b2-7b96-5557">
       <modifiers>
         <modifier type="set" field="hidden" value="true">
           <conditions>
@@ -25644,7 +25645,7 @@ If a unit of Automated Artillery loses an assault, nothing happens - there are n
         <cost name="pts" typeId="points" value="45"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="6611-8bfe-64fe-65e9" name="(Apoc) Reaver Battle Titan" hidden="false" collective="false" import="true" type="model">
+    <selectionEntry id="6611-8bfe-64fe-65e9" name="(TTN) Reaver Battle Titan" hidden="false" collective="false" import="true" type="model">
       <modifiers>
         <modifier type="set" field="hidden" value="true">
           <conditions>
@@ -26428,7 +26429,7 @@ The Warlord Titan&apos;s carapace-mounted weapons may not target models closer t
         <cost name="pts" typeId="points" value="285"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="c18e-77c2-0f62-5676" name="(Apoc) Warhound Scout Titan" hidden="false" collective="false" import="true" type="model">
+    <selectionEntry id="c18e-77c2-0f62-5676" name="(TTN.L) Warhound Scout Titan" hidden="false" collective="false" import="true" type="model">
       <modifiers>
         <modifier type="set" field="hidden" value="true">
           <conditions>
@@ -26503,7 +26504,7 @@ The Warlord Titan&apos;s carapace-mounted weapons may not target models closer t
         <cost name="pts" typeId="points" value="720"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="b941-e395-01ee-4ef1" name="(Apoc) Warlord Battle Titan [30k Rules]" hidden="false" collective="false" import="true" type="model">
+    <selectionEntry id="b941-e395-01ee-4ef1" name="(TTN) Warlord Battle Titan [30k Rules]" hidden="false" collective="false" import="true" type="model">
       <modifiers>
         <modifier type="set" field="hidden" value="true">
           <conditions>
@@ -27123,7 +27124,7 @@ The Warlord Titan&apos;s carapace-mounted weapons may not target models closer t
         <cost name="pts" typeId="points" value="0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="fab6-11e3-79ef-7a6d" name="(Apoc) Thunderhawk Gunship Wing" hidden="false" collective="false" import="true" type="unit">
+    <selectionEntry id="fab6-11e3-79ef-7a6d" name="(A.SH-TT/G) Thunderhawk Gunship Wing" hidden="false" collective="false" import="true" type="unit">
       <modifiers>
         <modifier type="set" field="hidden" value="true">
           <conditions>
@@ -27144,7 +27145,7 @@ The Warlord Titan&apos;s carapace-mounted weapons may not target models closer t
         <cost name="pts" typeId="points" value="0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="3f06-462e-6d51-dfff" name="(Apoc) Thunderhawk Transporter Wing" hidden="false" collective="false" import="true" type="unit">
+    <selectionEntry id="3f06-462e-6d51-dfff" name="(SQ.A-TV) Thunderhawk Transporter Wing" hidden="false" collective="false" import="true" type="unit">
       <modifiers>
         <modifier type="set" field="hidden" value="true">
           <conditions>
@@ -29245,7 +29246,7 @@ The Warlord Titan&apos;s carapace-mounted weapons may not target models closer t
         <cost name="pts" typeId="points" value="0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="3105-a3fa-e635-a36c" name="Bolt Rifle" hidden="false" collective="false" import="true" type="upgrade">
+    <selectionEntry id="3105-a3fa-e635-a36c" name="(FMA) Bolt Rifle" hidden="false" collective="false" import="true" type="upgrade">
       <infoLinks>
         <infoLink id="ec6c-a858-3361-833d" name="Bolt Rifle" hidden="false" targetId="4675-aec6-d69f-1bc7" type="profile"/>
       </infoLinks>
@@ -29253,9 +29254,9 @@ The Warlord Titan&apos;s carapace-mounted weapons may not target models closer t
         <cost name="pts" typeId="points" value="0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="c882-cdec-007f-7353" name="Auto Bolt Rifle" hidden="false" collective="false" import="true" type="upgrade">
+    <selectionEntry id="c882-cdec-007f-7353" name="(FMG) Auto Bolt Rifle" hidden="false" collective="false" import="true" type="upgrade">
       <infoLinks>
-        <infoLink id="29d9-f791-222f-15a2" name="Auto Bolt Rifle" hidden="false" targetId="5f79-ce96-5ba9-95ee" type="profile"/>
+        <infoLink id="29d9-f791-222f-15a2" name="Auto Bolt Rifle (FMG)" hidden="false" targetId="5f79-ce96-5ba9-95ee" type="profile"/>
       </infoLinks>
       <costs>
         <cost name="pts" typeId="points" value="2"/>
@@ -29325,7 +29326,7 @@ The Warlord Titan&apos;s carapace-mounted weapons may not target models closer t
             <constraint field="selections" scope="parent" value="1" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="ca39-afc7-a234-6429" type="min"/>
           </constraints>
           <entryLinks>
-            <entryLink id="bf37-17ca-5d53-c64e" name="Bolt Rifle" hidden="false" collective="false" import="true" targetId="3105-a3fa-e635-a36c" type="selectionEntry">
+            <entryLink id="bf37-17ca-5d53-c64e" name="Bolt Rifle (FMA)" hidden="false" collective="false" import="true" targetId="3105-a3fa-e635-a36c" type="selectionEntry">
               <modifiers>
                 <modifier type="increment" field="points" value="0">
                   <repeats>
@@ -29344,7 +29345,7 @@ The Warlord Titan&apos;s carapace-mounted weapons may not target models closer t
                 <modifier type="decrement" field="points" value="2"/>
               </modifiers>
             </entryLink>
-            <entryLink id="58b0-e4d1-fc8f-f747" name="Stalker Bolt Rifle" hidden="false" collective="false" import="true" targetId="7bab-5348-5718-f81e" type="selectionEntry">
+            <entryLink id="58b0-e4d1-fc8f-f747" name="Stalker Bolt Rifle (FTP)" hidden="false" collective="false" import="true" targetId="7bab-5348-5718-f81e" type="selectionEntry">
               <modifiers>
                 <modifier type="increment" field="points" value="5">
                   <repeats>
@@ -29408,7 +29409,7 @@ The Warlord Titan&apos;s carapace-mounted weapons may not target models closer t
         <cost name="pts" typeId="points" value="10"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="f03c-fc46-a51a-84a8" name="Heavy Bolt Pistol" hidden="false" collective="false" import="true" type="upgrade">
+    <selectionEntry id="f03c-fc46-a51a-84a8" name="(PA.H) Heavy Bolt Pistol" hidden="false" collective="false" import="true" type="upgrade">
       <infoLinks>
         <infoLink id="cd6c-909a-4a71-4ca9" name="Heavy Bolt Pistol" hidden="false" targetId="8430-a654-a955-9f8e" type="profile"/>
       </infoLinks>
@@ -29468,7 +29469,7 @@ Don&apos;t inflict any damage. A unit hit by this weapons must do a INITIATIVE T
           <infoLinks>
             <infoLink id="daf5-4f07-14f9-9456" name="Primaris Sergeant" hidden="false" targetId="b038-3799-ef36-df26" type="profile"/>
             <infoLink id="d530-53b5-87ca-8e6b" name="Krak Grenades" hidden="false" targetId="3bf6-b4f7-6b2f-bb7b" type="profile"/>
-            <infoLink id="f59c-4261-d778-5d19" name="Assault Grenades" hidden="false" targetId="fdd8-1a5f-5722-d6ee" type="profile"/>
+            <infoLink id="f59c-4261-d778-5d19" name="Assault Grenades (P.H)" hidden="false" targetId="fdd8-1a5f-5722-d6ee" type="profile"/>
           </infoLinks>
           <costs>
             <cost name="pts" typeId="points" value="18"/>
@@ -29506,7 +29507,7 @@ Don&apos;t inflict any damage. A unit hit by this weapons must do a INITIATIVE T
           <infoLinks>
             <infoLink id="4115-2a37-cb21-2dc9" name="Primaris" hidden="false" targetId="2144-a000-a3cf-44e4" type="profile"/>
             <infoLink id="47ff-22d0-5bf4-6642" name="Krak Grenades" hidden="false" targetId="3bf6-b4f7-6b2f-bb7b" type="profile"/>
-            <infoLink id="f4fa-5ce4-1b0b-b7ae" name="Assault Grenades" hidden="false" targetId="fdd8-1a5f-5722-d6ee" type="profile"/>
+            <infoLink id="f4fa-5ce4-1b0b-b7ae" name="Assault Grenades (P.H)" hidden="false" targetId="fdd8-1a5f-5722-d6ee" type="profile"/>
           </infoLinks>
           <costs>
             <cost name="pts" typeId="points" value="18"/>
@@ -29631,7 +29632,7 @@ Don&apos;t inflict any damage. A unit hit by this weapons must do a INITIATIVE T
         <cost name="pts" typeId="points" value="5"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="9cfa-a68c-8711-86e9" name="Agessor Squad" hidden="false" collective="false" import="true" type="upgrade">
+    <selectionEntry id="9cfa-a68c-8711-86e9" name="(SQ-ASS.H) Agessor Squad" hidden="false" collective="false" import="true" type="upgrade">
       <rules>
         <rule id="769e-ad04-93e4-5212" name="Tempête de Feu" hidden="false">
           <description>Si une figurine ayant cette règle ne s&apos;est pas déplacer pendant sa précédente phase de mouvement, elle peut alors tirer deux fois pendant la phase de tour.</description>
@@ -29884,7 +29885,7 @@ Don&apos;t inflict any damage. A unit hit by this weapons must do a INITIATIVE T
         <cost name="pts" typeId="points" value="0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="6ae6-8dce-c5db-d5ad" name="Assault Bolter" hidden="false" collective="false" import="true" type="upgrade">
+    <selectionEntry id="6ae6-8dce-c5db-d5ad" name="(F.ASS) - Assault Bolter" hidden="false" collective="false" import="true" type="upgrade">
       <infoLinks>
         <infoLink id="bfeb-15a8-7406-90cf" name="Assault Bolter" hidden="false" targetId="e168-3d5b-27ca-33a5" type="profile"/>
       </infoLinks>
@@ -29952,7 +29953,7 @@ Don&apos;t inflict any damage. A unit hit by this weapons must do a INITIATIVE T
             <constraint field="selections" scope="parent" value="1" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="40a0-4086-ffec-77a0" type="min"/>
           </constraints>
           <selectionEntries>
-            <selectionEntry id="00f1-ce7b-a62c-cf0e" name="Incinerateur Plasma" hidden="false" collective="false" import="true" type="upgrade">
+            <selectionEntry id="00f1-ce7b-a62c-cf0e" name="(FA-PL) Incinerateur Plasma" hidden="false" collective="false" import="true" type="upgrade">
               <profiles>
                 <profile id="7d43-1d48-3782-ac68" name="Incinérateur Plasma (OverCharged)" hidden="false" typeId="d5f97c0b-9fc9-478d-aa34-a7c414d3ea48" typeName="Weapon">
                   <characteristics>
@@ -29975,7 +29976,7 @@ Don&apos;t inflict any damage. A unit hit by this weapons must do a INITIATIVE T
                 <cost name="pts" typeId="points" value="0"/>
               </costs>
             </selectionEntry>
-            <selectionEntry id="d355-790e-4d58-4998" name="Incinerateur Plasma Lourd" hidden="false" collective="false" import="true" type="upgrade">
+            <selectionEntry id="d355-790e-4d58-4998" name="(F.H-PL) Incinerateur Plasma Lourd" hidden="false" collective="false" import="true" type="upgrade">
               <modifiers>
                 <modifier type="increment" field="points" value="15">
                   <repeats>
@@ -29992,7 +29993,7 @@ Don&apos;t inflict any damage. A unit hit by this weapons must do a INITIATIVE T
                     <characteristic name="Type" typeId="077c342f-d7b9-45c6-b8af-88e97cafd3a2">Lourde 1,Surchauffe</characteristic>
                   </characteristics>
                 </profile>
-                <profile id="0577-f2c1-790d-a887" name="Incinérateur Plasma Lourd (OverCharged)" hidden="false" typeId="d5f97c0b-9fc9-478d-aa34-a7c414d3ea48" typeName="Weapon">
+                <profile id="0577-f2c1-790d-a887" name="Incinérateur Plasma Lourd (Standard)" hidden="false" typeId="d5f97c0b-9fc9-478d-aa34-a7c414d3ea48" typeName="Weapon">
                   <characteristics>
                     <characteristic name="Range" typeId="6fa97fa8-ea74-4a27-a0fb-bc4e5f367464">36&quot;</characteristic>
                     <characteristic name="Strength" typeId="a6383362-5aa8-4ff0-b1d0-00e059fc9d45">7</characteristic>
@@ -30005,7 +30006,7 @@ Don&apos;t inflict any damage. A unit hit by this weapons must do a INITIATIVE T
                 <cost name="pts" typeId="points" value="0"/>
               </costs>
             </selectionEntry>
-            <selectionEntry id="7980-dcc9-d71c-e8c0" name="Incinerateur Plasma Assaut" hidden="false" collective="false" import="true" type="upgrade">
+            <selectionEntry id="7980-dcc9-d71c-e8c0" name="(F.ASS-PL) Incinerateur Plasma Assaut" hidden="false" collective="false" import="true" type="upgrade">
               <modifiers>
                 <modifier type="increment" field="points" value="10">
                   <repeats>
@@ -30676,7 +30677,7 @@ Si cette figurine est réduite à 0 PV, jetez 1D6 avant de retirer la fgurine du
         <cost name="pts" typeId="points" value="0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="063f-18e3-836c-d3a0" name="(Company): Battle Company" publicationId="b42e-b363-0b03-48b9" hidden="false" collective="false" import="true" type="unit">
+    <selectionEntry id="063f-18e3-836c-d3a0" name="(CIE-INF): Battle Company" publicationId="b42e-b363-0b03-48b9" hidden="false" collective="false" import="true" type="unit">
       <infoLinks>
         <infoLink id="2edf-e9e3-5949-7587" name="Tactical Flexibility" hidden="false" targetId="9395-4843-f03d-4057" type="rule"/>
       </infoLinks>
@@ -30794,7 +30795,7 @@ Si cette figurine est réduite à 0 PV, jetez 1D6 avant de retirer la fgurine du
         <cost name="pts" typeId="points" value="0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="c04b-a9fe-c52a-7472" name="(Company): Assaut Company" publicationId="b42e-b363-0b03-48b9" hidden="false" collective="false" import="true" type="unit">
+    <selectionEntry id="c04b-a9fe-c52a-7472" name="(CIE-ASS): Assaut Company" publicationId="b42e-b363-0b03-48b9" hidden="false" collective="false" import="true" type="unit">
       <infoLinks>
         <infoLink id="90cf-1b64-57cd-1209" name="Tactical Flexibility" hidden="false" targetId="9395-4843-f03d-4057" type="rule"/>
       </infoLinks>
@@ -30879,7 +30880,7 @@ Si cette figurine est réduite à 0 PV, jetez 1D6 avant de retirer la fgurine du
         <cost name="pts" typeId="points" value="0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="a7e8-12da-5fde-7f62" name="(Company): Devastator Company" publicationId="b42e-b363-0b03-48b9" hidden="false" collective="false" import="true" type="unit">
+    <selectionEntry id="a7e8-12da-5fde-7f62" name="(CIE-HW): Devastator Company" publicationId="b42e-b363-0b03-48b9" hidden="false" collective="false" import="true" type="unit">
       <infoLinks>
         <infoLink id="312d-9419-58b8-a971" name="Tactical Flexibility" hidden="false" targetId="9395-4843-f03d-4057" type="rule"/>
       </infoLinks>
